@@ -6,7 +6,6 @@
 #              banking Trojan analysis, initializes important text files for
 #              note-taking, tracking analysis, and setting up the project in
 #              a Kali Linux environment.
-# Author:      Kevin Day
 # Date:        8/30/2024
 # -----------------------------------------------------------------------------
 

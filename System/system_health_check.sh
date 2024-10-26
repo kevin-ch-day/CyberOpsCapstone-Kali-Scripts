@@ -1,12 +1,9 @@
 #!/bin/bash
-
 # -----------------------------------------------------------------------------
 # Script Name: system_health_check.sh
 # Purpose:     Periodically checks the health of the system by monitoring disk 
 #              usage, memory usage, CPU load, running processes, network activity,
 #              and system temperature. It logs the data and generates summary reports.
-# Last Updated Dated:   [Date]
-# Version:              1.0
 # -----------------------------------------------------------------------------
 
 # =========================

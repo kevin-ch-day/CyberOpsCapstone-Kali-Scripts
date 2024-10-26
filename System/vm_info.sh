@@ -3,7 +3,6 @@
 # Script Name: kali_vm_info.sh
 # Purpose:     Collects and displays hardware and software configuration details
 #              of the Kali Linux virtual machine for malware analysis purposes.
-# Author:      Kevin Day
 # Date:        8/30/2024
 # -----------------------------------------------------------------------------
 
